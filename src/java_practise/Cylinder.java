@@ -35,4 +35,3 @@ interface face2
 {
     abstract void volume();
 }
-
