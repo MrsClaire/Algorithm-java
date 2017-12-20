@@ -1,7 +1,7 @@
 package java_practise;
 
 import java.util.Scanner;
-//写一个函数，求两个整数之和，要求在函数体内不得使用+、-、*、/四则运算符号。
+//写一个函数，求两个整数之和，要求在函数体内不得使用+、-、*、/四则运算符号
 public class test_01 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
